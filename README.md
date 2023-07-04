@@ -1,3 +1,5 @@
+_*This project is not in active development or support. It is hosted here for archival purposes*_
+
 # cryptx-v4
 An Encryption/Decryption app written in C++, with an HTA UI
 
